@@ -1,2 +1,3 @@
 # pythongame
-i developed this game in python.
+I developed this game in python.
+Hope you liked it
